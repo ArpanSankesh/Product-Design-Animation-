@@ -58,7 +58,12 @@ html, body {
     margin-left: 3vw;
     opacity: 0.6;
 }
-.heading h1:nth-child(2){
-    
-    margin-left: 13vw;
+
+.headingPart2{
+    width: fit-content;
+    margin-left: 10vw;
+}
+
+.heading h5{
+    text-align: right;
 }
